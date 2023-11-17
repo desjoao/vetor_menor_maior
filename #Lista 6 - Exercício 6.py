@@ -16,4 +16,4 @@ for i in range(15):
         maior = real[i]
         posmai = i
 
-print(f'Os números informados foram {real}. \nO maior número informado é: {maior} e ele ocupa a {posmai + 1}ª posição no vetor. \nO menor número informado é: {menor} e ele ocupa a {posmen + 1}ª posição no vetor.')
+print(f'Os números informados foram {real}. \nO maior número informado é: {maior} e ele ocupa a {posmai + 1}ª posição no vetor. \nO menor número informado é: {menor} e ele ocupa a {posmen + 1}ª posição no vetor.\nA diferença do maior para o menor é de {maior - menor}.')
